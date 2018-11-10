@@ -14,3 +14,5 @@ Need to Check
  Getting Started with : https://www.taniarascia.com/getting-started-with-react/
  Create New React App : https://reactjs.org/docs/create-a-new-react-app.html
  
+
+A component can change its internal state directly. It can not change its props directly.
